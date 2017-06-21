@@ -1,0 +1,38 @@
+.about{
+  width: 100%;
+}
+.page-title a{
+  color: #00a0d8!important;
+  font-weight: bolder;
+}
+.mod-module {
+  width: 100%;
+  height: 265px;
+}
+.img-list{
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+.img-box{
+  width: 33.3333%;
+  height: 100%;
+}
+.img-box:first-of-type{
+  padding-right: 1px;
+}
+.img-box:nth-of-type(2){
+  padding: 0 0.5px;
+}
+.img-box:last-of-type{
+  padding-left: 1px;
+}
+.img-item{
+  background: #00a0d8;
+  text-align: center;
+  line-height: 265px;
+}
+.page-link{
+  color: #fff;
+}
+

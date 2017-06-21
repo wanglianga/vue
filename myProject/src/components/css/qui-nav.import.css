@@ -1,0 +1,10 @@
+.qui-nav{
+  padding: 10px 20px;
+}
+.nav-item{
+  padding: 0 20px 10px 20px;
+}
+.active{
+  color: #ffcd00;
+  border-bottom: 4px solid #ffcd00;
+}
